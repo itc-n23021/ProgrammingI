@@ -24,14 +24,14 @@
 - 2.10 関数の引数([問題1](CHAPTER02/Q2_10_1.py)、[問題2](CHAPTER02/Q2_10_2.py))
 - 2.11 複数同時代入([問題1](CHAPTER02/Q2_11_1.py)、[問題2](CHAPTER02/Q2_11_2.py))
 - 2.12 モジュールの利用([問題1](CHAPTER02/Q2_12_1.py)、[問題2](CHAPTER02/Q2_12_2.py))
-- 2.13 importのいろいろな書き方
+- 2.13 importのいろいろな書き方([問題1](CHAPTER02/Q2_13_1.py)、[問題2](CHAPTER02/Q2_13_2.py))
 
 ### CHAPTER3　制御構文
 
-- 3.1 if文の基礎
-- 3.2 if文の応用
-- 3.3 for文の基礎
-- 3.4 for文の応用
+- 3.1 if文の基礎([問題1](CHAPTER03/Q3_1_1.py)、[問題2](CHAPTER03/Q3_1_2.py))
+- 3.2 if文の応用([問題1](CHAPTER03/Q3_2_1.py)、[問題2](CHAPTER03/Q3_2_2.py))
+- 3.3 for文の基礎([問題1](CHAPTER03/Q3_3_1.py)、[問題2](CHAPTER03/Q3_3_2.py))
+- 3.4 for文の応用([問題1](CHAPTER03/Q3_4_1.py)、[問題2](CHAPTER03/Q3_4_2.py))
 - 3.5 while文の基礎
 - 3.6 whileを使ったプログラミング
 - 3.7 ファイルの操作
